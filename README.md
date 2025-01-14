@@ -10,12 +10,12 @@
 
 ## How to use<br>
 #### *THE KEYBOARD CONTROLS:-*<br>
-W key to thrust.<br>
-A and D key for rotating left or right.<br> SPACE key to shoot bullet.<br>
-P for Pause.(toggle key)<br>
-F8 for new game.(only works in game state and game restarts in game state).<br>
-
-~ (tilde) key to open devconsole
+1. W and S key to move forward and backward.<br>
+2. A and D key to move left and right.<br>
+3. LEFT MOUSE BUTTON to shoot weapon.<br>
+4. 1 key to equip pistol.<br>
+5. 2 key to equip flashlight.<br>
+6. ~ (tilde) key to open devconsole<br>
 
 ## How to run the application:-<br>
 
