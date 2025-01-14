@@ -13,6 +13,7 @@
 1. W and S key to move forward and backward.<br>
 2. A and D key to move left and right.<br>
 3. LEFT MOUSE BUTTON to shoot weapon.<br>
+4. RIGHT MOUSE BUTTON to switch flashlight color at shrine.<br>
 4. 1 key to equip pistol.<br>
 5. 2 key to equip flashlight.<br>
 6. ~ (tilde) key to open devconsole<br>
