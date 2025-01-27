@@ -1,5 +1,5 @@
-![Screenshot 2024-12-13 163305](https://github.com/user-attachments/assets/00ddbe2a-81ff-4da8-b14e-5eb864242e7b)<br>
-![Screenshot 2024-12-13 163452](https://github.com/user-attachments/assets/ad4aed94-b1f2-40be-8b9b-3be6775cd32b)<br>
+![Screenshot 2024-12-13 163305](https://github.com/user-attachments/assets/00ddbe2a-81ff-4da8-b14e-5eb864242e7b)
+![Screenshot 2024-12-13 163452](https://github.com/user-attachments/assets/ad4aed94-b1f2-40be-8b9b-3be6775cd32b)
 ![Screenshot 2024-12-13 163747](https://github.com/user-attachments/assets/ea6c7b4a-da56-42a8-9531-d55a7b01b496)
 
 This project was a clone blend of Doom and Wolfenstein. This game was the first 3D game I made. I learnt a lot of things in 3D graphics, 3D Camera movement and 3D physics.
